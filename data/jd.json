@@ -1,0 +1,472 @@
+[
+ {
+  "jobId": "J1",
+  "postedBy": "Talent Acquisition, Riverbend Medical Center",
+  "postedAt": "2026-11-04",
+  "about": "Riverbend is a 410-bed Level II hospital in north Atlanta with 22 operating rooms and a fast-growing open-heart program (6–8 pumps a week). The anesthesia department runs a care-team model with 1:3 medical direction and a dedicated cardiac team.",
+  "responsibilities": [
+   "Provide anesthesia for general, vascular and cardiac cases under 1:3 medical direction",
+   "Manage CPB cases with the cardiac attending, including line placement and post-bypass hemodynamics",
+   "Take in-house call on rotation (post-call day off)",
+   "Precept SRNA/AA students on general rooms"
+  ],
+  "requirements": [
+   {
+    "text": "CRNA or Certified Anesthesiologist Assistant",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active, unrestricted Georgia licence",
+    "rule": "State licence",
+    "verifiedBy": "Georgia Board of Nursing / Georgia Medical Board"
+   },
+   {
+    "text": "Current NBCRNA or NCCAA certification",
+    "rule": "Board certification",
+    "verifiedBy": "NBCRNA / NCCAA verification"
+   },
+   {
+    "text": "2+ years' independent clinical experience",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "General and cardiac case experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Not excluded from federal healthcare programs",
+    "rule": "Exclusion screening",
+    "verifiedBy": "OIG LEIE · SAM.gov"
+   },
+   {
+    "text": "Able to start by mid-January 2027",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "CVICU nursing background",
+   "TEE familiarity",
+   "Precepting experience"
+  ],
+  "schedule": "4×10s with 1:5 in-house call, post-call day off",
+  "benefits": [
+   "$215K–$245K base + call pay",
+   "$15K sign-on",
+   "6 weeks PTO + CME $3,000",
+   "403(b) with 6% match"
+  ]
+ },
+ {
+  "jobId": "J2",
+  "postedBy": "Department of Anesthesiology, Lakeshore Children's",
+  "postedAt": "2026-11-01",
+  "about": "A 288-bed free-standing children's hospital in Chicago. Neonates through adolescents across 16 ORs plus GI, MRI and cath lab sedation. Strong education culture with an in-house simulation centre.",
+  "responsibilities": [
+   "Pediatric anesthesia for ENT, ortho, general surgery and off-site sedation",
+   "Pre-op assessment with families and child-life team",
+   "Q6 weekend call"
+  ],
+  "requirements": [
+   {
+    "text": "CRNA",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Illinois APRN-CRNA licence",
+    "rule": "State licence",
+    "verifiedBy": "Illinois licence lookup (IDFPR)"
+   },
+   {
+    "text": "NBCRNA certification",
+    "rule": "Board certification",
+    "verifiedBy": "NBCRNA verification"
+   },
+   {
+    "text": "3+ years' experience",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "Pediatric experience required",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Exclusion-list clear",
+    "rule": "Exclusion screening",
+    "verifiedBy": "OIG LEIE · SAM.gov"
+   },
+   {
+    "text": "Start February 2027",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Neonatal experience",
+   "PALS instructor"
+  ],
+  "schedule": "5×8s, Q6 weekend call",
+  "benefits": [
+   "$225K–$255K",
+   "Relocation up to $10K",
+   "Tuition support",
+   "Pension + 403(b)"
+  ]
+ },
+ {
+  "jobId": "J3",
+  "postedBy": "Practice Manager, Sunvale Surgery Center",
+  "postedAt": "2026-11-10",
+  "about": "A CRNA-only ambulatory surgery centre in Phoenix focused on orthopedics and sports medicine. Every day is block-heavy; same-day discharge for most joints.",
+  "responsibilities": [
+   "Independent anesthesia for outpatient ortho",
+   "Ultrasound-guided peripheral nerve blocks daily",
+   "Post-op block follow-up calls"
+  ],
+  "requirements": [
+   {
+    "text": "CRNA",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Arizona licence",
+    "rule": "State licence",
+    "verifiedBy": "Arizona State Board of Nursing"
+   },
+   {
+    "text": "Arizona DEA registration",
+    "rule": "DEA registration",
+    "verifiedBy": "DEA registration validation"
+   },
+   {
+    "text": "NBCRNA certification",
+    "rule": "Board certification",
+    "verifiedBy": "NBCRNA verification"
+   },
+   {
+    "text": "3+ years",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "Regional anesthesia experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "1099 independent contractor",
+    "rule": "Contract type",
+    "verifiedBy": "Provider preferences"
+   },
+   {
+    "text": "Start late December",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Continuous catheter experience"
+  ],
+  "schedule": "Mon–Fri days, no call, no weekends",
+  "benefits": [
+   "$175–$200/hr 1099",
+   "Guaranteed 36 hrs/week"
+  ]
+ },
+ {
+  "jobId": "J4",
+  "postedBy": "Chief of Anesthesiology, Gulf Coast Regional",
+  "postedAt": "2026-10-28",
+  "about": "A busy Tampa hospital with 4,500 deliveries a year and a physician-led care team. In-house OB call; partnership track.",
+  "responsibilities": [
+   "Cover L&D and general ORs",
+   "Run the labor epidural service and OB emergencies",
+   "Supervise CRNAs on general rooms"
+  ],
+  "requirements": [
+   {
+    "text": "Anesthesiologist (MD/DO)",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Florida medical licence",
+    "rule": "State licence",
+    "verifiedBy": "Florida Board of Medicine"
+   },
+   {
+    "text": "Florida DEA registration",
+    "rule": "DEA registration",
+    "verifiedBy": "DEA registration validation"
+   },
+   {
+    "text": "Board eligible or certified (certification within 2 years)",
+    "rule": "Advisory",
+    "verifiedBy": "ABA verification"
+   },
+   {
+    "text": "OB and general experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Exclusion-list clear",
+    "rule": "Exclusion screening",
+    "verifiedBy": "OIG LEIE · SAM.gov"
+   },
+   {
+    "text": "Start March 2027",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "OB anesthesiology fellowship"
+  ],
+  "schedule": "In-house OB call 1:5",
+  "benefits": [
+   "$500K–$560K",
+   "Partnership after 2 years",
+   "Malpractice with tail"
+  ]
+ },
+ {
+  "jobId": "J5",
+  "postedBy": "Locum coordinator, High Plains Health",
+  "postedAt": "2026-11-12",
+  "about": "A rural critical-access hospital in Montana. The CRNA is the sole anesthesia provider on shift, covering C-sections, trauma and blocks.",
+  "responsibilities": [
+   "Sole anesthesia provider: OB, trauma, general",
+   "Labor epidurals and C-sections",
+   "Regional blocks for ortho trauma"
+  ],
+  "requirements": [
+   {
+    "text": "CRNA",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Montana licence",
+    "rule": "State licence",
+    "verifiedBy": "Montana Board of Nursing"
+   },
+   {
+    "text": "Montana DEA registration",
+    "rule": "DEA registration",
+    "verifiedBy": "DEA registration validation"
+   },
+   {
+    "text": "NBCRNA certification",
+    "rule": "Board certification",
+    "verifiedBy": "NBCRNA verification"
+   },
+   {
+    "text": "5+ years",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "OB, trauma and regional experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Locum assignment",
+    "rule": "Contract type",
+    "verifiedBy": "Provider preferences"
+   },
+   {
+    "text": "Start mid-December",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Rural/independent practice history"
+  ],
+  "schedule": "7 on / 7 off, home call",
+  "benefits": [
+   "$190–$215/hr",
+   "Housing + travel covered",
+   "Malpractice covered"
+  ]
+ },
+ {
+  "jobId": "J6",
+  "postedBy": "Medical Director, Pinecrest Ambulatory Surgery",
+  "postedAt": "2026-11-08",
+  "about": "A physician-only ambulatory centre in Seattle. Block-heavy total joints with same-day discharge. 3-month renewable locum.",
+  "responsibilities": [
+   "Anesthesia for ambulatory ortho and total joints",
+   "Regional anesthesia and multimodal pain plans"
+  ],
+  "requirements": [
+   {
+    "text": "Anesthesiologist",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Washington licence",
+    "rule": "State licence",
+    "verifiedBy": "Washington Medical Commission"
+   },
+   {
+    "text": "Washington DEA registration",
+    "rule": "DEA registration",
+    "verifiedBy": "DEA registration validation"
+   },
+   {
+    "text": "ABA board certified",
+    "rule": "Board certification",
+    "verifiedBy": "ABA verification"
+   },
+   {
+    "text": "3+ years",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "Regional experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Locum assignment",
+    "rule": "Contract type",
+    "verifiedBy": "Provider preferences"
+   },
+   {
+    "text": "Start January 2027",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Regional fellowship"
+  ],
+  "schedule": "Weekdays only, no call",
+  "benefits": [
+   "$290–$330/hr",
+   "Travel + lodging"
+  ]
+ },
+ {
+  "jobId": "J7",
+  "postedBy": "Talent Acquisition, Buckeye Valley Hospital",
+  "postedAt": "2026-11-06",
+  "about": "A community teaching hospital in Columbus with a care-team model (1:4). New graduates welcome with a 12-week orientation.",
+  "responsibilities": [
+   "General, vascular and OB anesthesia",
+   "Labor epidural service",
+   "Precept students"
+  ],
+  "requirements": [
+   {
+    "text": "CAA or CRNA",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Ohio licence",
+    "rule": "State licence",
+    "verifiedBy": "Ohio Board of Nursing / State Medical Board of Ohio"
+   },
+   {
+    "text": "NCCAA or NBCRNA certification",
+    "rule": "Board certification",
+    "verifiedBy": "NCCAA / NBCRNA verification"
+   },
+   {
+    "text": "General and OB experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Exclusion-list clear",
+    "rule": "Exclusion screening",
+    "verifiedBy": "OIG LEIE · SAM.gov"
+   },
+   {
+    "text": "Start mid-February",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Vascular experience"
+  ],
+  "schedule": "4×10s, 1:6 call",
+  "benefits": [
+   "$190K–$220K",
+   "12-week orientation",
+   "Loan repayment up to $20K"
+  ]
+ },
+ {
+  "jobId": "J8",
+  "postedBy": "Chair, Cardiac Anesthesia, Lone Star Heart Institute",
+  "postedAt": "2026-10-30",
+  "about": "A high-volume cardiothoracic centre in Houston: CABG, valves, TAVR, LVAD and transplant.",
+  "responsibilities": [
+   "Cardiac anesthesia for CT surgery and structural heart",
+   "Advanced perioperative TEE",
+   "Call 1:6"
+  ],
+  "requirements": [
+   {
+    "text": "Anesthesiologist",
+    "rule": "Role",
+    "verifiedBy": "NPI taxonomy"
+   },
+   {
+    "text": "Active Texas medical licence",
+    "rule": "State licence",
+    "verifiedBy": "Texas Medical Board"
+   },
+   {
+    "text": "Texas DEA registration",
+    "rule": "DEA registration",
+    "verifiedBy": "DEA registration validation"
+   },
+   {
+    "text": "ABA board certified",
+    "rule": "Board certification",
+    "verifiedBy": "ABA verification"
+   },
+   {
+    "text": "2+ years",
+    "rule": "Experience",
+    "verifiedBy": "Work history"
+   },
+   {
+    "text": "Cardiac experience",
+    "rule": "Case mix",
+    "verifiedBy": "Case log"
+   },
+   {
+    "text": "Start April 2027",
+    "rule": "Start date",
+    "verifiedBy": "Availability + credentialing time"
+   }
+  ],
+  "niceToHave": [
+   "Adult cardiothoracic fellowship",
+   "Advanced PTE certification"
+  ],
+  "schedule": "Call 1:6",
+  "benefits": [
+   "$560K–$620K",
+   "Signing bonus",
+   "Academic appointment available"
+  ]
+ }
+]

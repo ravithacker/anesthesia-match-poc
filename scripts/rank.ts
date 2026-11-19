@@ -10,9 +10,9 @@
  *
  * Output: src/data/matches.json (the web app is static; no API key ships to the browser).
  */
-import { readFileSync, writeFileSync } from "node:fs";
+import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import { checkPair } from "../src/lib/eligibility";
-import type { AiMatch, Job, Label, MatchesFile, Provider } from "../src/lib/types";
+import type { AiMatch, Job, Label, MatchesFile, Profile, Provider } from "../src/lib/types";
 
 const MODELS = (process.env.GEMINI_MODELS ?? "gemini-3.8-flash").split(",");
 const KEY = process.env.GEMINI_API_KEY;
@@ -22,7 +22,10 @@ const jobs: Job[] = JSON.parse(readFileSync("data/jobs.json", "utf8"));
 const providers: Provider[] = JSON.parse(readFileSync("data/providers.json", "utf8"));
 const byId = new Map(providers.map((p) => [p.id, p]));
 
-const eligibility = jobs.flatMap((j) => providers.map((p) => checkPair(p, j)));
+// Use verified credentials when available (npm run enrich), so the model never sees a blocked provider.
+const profiles: Profile[] = existsSync("data/profiles.json") ? JSON.parse(readFileSync("data/profiles.json", "utf8")) : [];
+const verByProvider = new Map(profiles.map((p) => [p.providerId, p.verification]));
+const eligibility = jobs.flatMap((j) => providers.map((p) => checkPair(p, j, verByProvider.get(p.id))));
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 

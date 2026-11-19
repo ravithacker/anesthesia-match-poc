@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "seed": "tsx scripts/seed.ts",
+    "enrich": "tsx scripts/enrich.ts",
     "rank": "tsx scripts/rank.ts",
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
