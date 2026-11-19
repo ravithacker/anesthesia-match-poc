@@ -1,0 +1,2035 @@
+[
+  {
+    "id": "P01",
+    "name": "Maya Holloway",
+    "role": "CRNA",
+    "yearsExperience": 2,
+    "boardCertified": true,
+    "licenses": [
+      "GA",
+      "NC"
+    ],
+    "deaStates": [
+      "GA",
+      "NC"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-19",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "GA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 220000,
+    "bio": "CRNA with 2 years of experience; loves the pace of cardiac cases. Burnt out on heavy call and wants a lighter schedule. Fine with call."
+  },
+  {
+    "id": "P02",
+    "name": "Daniel Nguyen",
+    "role": "CRNA",
+    "yearsExperience": 5,
+    "boardCertified": true,
+    "licenses": [
+      "IL"
+    ],
+    "deaStates": [
+      "IL"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric"
+    ],
+    "availableFrom": "2027-01-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "IL"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 220000,
+    "minHourlyPay": 175,
+    "bio": "CRNA with 5 years of experience; wants a pediatric-focused role long term. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P03",
+    "name": "Priya Yates",
+    "role": "CRNA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "AZ"
+    ],
+    "deaStates": [
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-21",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "AZ"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 183,
+    "bio": "CRNA with 6 years of experience; wants to do more hearts. Has school-age kids, so predictable hours matter. Would rather avoid call."
+  },
+  {
+    "id": "P04",
+    "name": "Marcus Brandt",
+    "role": "Anesthesiologist",
+    "yearsExperience": 3,
+    "boardCertified": true,
+    "licenses": [
+      "FL",
+      "CO"
+    ],
+    "deaStates": [
+      "FL",
+      "CO"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "CO",
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minHourlyPay": 280,
+    "bio": "Board-certified anesthesiologist with 3 years of experience; comfortable running a busy labor floor. Wants to pay off loans quickly; pay is the priority. Fine with call."
+  },
+  {
+    "id": "P05",
+    "name": "Elena Castillo",
+    "role": "CRNA",
+    "yearsExperience": 5,
+    "boardCertified": true,
+    "licenses": [
+      "MT",
+      "GA"
+    ],
+    "deaStates": [
+      "MT",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "availableFrom": "2026-12-15",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "GA",
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 199,
+    "bio": "CRNA with 5 years of experience; has worked trauma at a Level I centre. Has school-age kids, so predictable hours matter. Fine with call."
+  },
+  {
+    "id": "P06",
+    "name": "James Sorensen",
+    "role": "Anesthesiologist",
+    "yearsExperience": 4,
+    "boardCertified": true,
+    "licenses": [
+      "OR"
+    ],
+    "deaStates": [
+      "OR"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-06",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 480000,
+    "minHourlyPay": 298,
+    "bio": "Board-certified anesthesiologist with 4 years of experience; looking to keep cardiac skills sharp. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P07",
+    "name": "Aisha Okafor",
+    "role": "CAA",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "OH",
+      "CO"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL",
+      "MT"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 210000,
+    "bio": "CAA with 11 years of experience; comfortable running a busy labor floor. Burnt out on heavy call and wants a lighter schedule. Fine with call."
+  },
+  {
+    "id": "P08",
+    "name": "Tom Mercer",
+    "role": "Anesthesiologist",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "TX",
+      "FL"
+    ],
+    "deaStates": [
+      "TX",
+      "FL"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2027-01-31",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "TX"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minHourlyPay": 280,
+    "bio": "Board-certified anesthesiologist with 10 years of experience; wants to do more hearts. Burnt out on heavy call and wants a lighter schedule. Fine with call."
+  },
+  {
+    "id": "P09",
+    "name": "Grace Abbott",
+    "role": "CAA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "GA"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 205000,
+    "bio": "CAA with 6 years of experience; loves the pace of cardiac cases. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P10",
+    "name": "Luis Lindqvist",
+    "role": "CRNA",
+    "yearsExperience": 3,
+    "boardCertified": true,
+    "licenses": [
+      "IL",
+      "GA"
+    ],
+    "deaStates": [
+      "IL",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric"
+    ],
+    "availableFrom": "2027-01-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "AZ",
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 255000,
+    "bio": "CRNA with 3 years of experience; enjoys working with kids and their families. Has school-age kids, so predictable hours matter. Fine with call."
+  },
+  {
+    "id": "P11",
+    "name": "Hannah Dubois",
+    "role": "CRNA",
+    "yearsExperience": 8,
+    "boardCertified": true,
+    "licenses": [
+      "AZ",
+      "MT"
+    ],
+    "deaStates": [
+      "AZ",
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2026-12-21",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "OH",
+      "AZ"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 179,
+    "bio": "CRNA with 8 years of experience; strong with ultrasound-guided blocks. Looking for a partnership or leadership track. Would rather avoid call."
+  },
+  {
+    "id": "P12",
+    "name": "Omar Fischer",
+    "role": "Anesthesiologist",
+    "yearsExperience": 11,
+    "boardCertified": false,
+    "licenses": [
+      "FL"
+    ],
+    "deaStates": [
+      "FL"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "cardiac"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 495000,
+    "bio": "Board-eligible anesthesiologist with 11 years of experience; wants to do more hearts. Burnt out on heavy call and wants a lighter schedule. Fine with call."
+  },
+  {
+    "id": "P13",
+    "name": "Sofia Ramos",
+    "role": "CRNA",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "MT"
+    ],
+    "deaStates": [
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "availableFrom": "2026-12-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "MT"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 217,
+    "bio": "CRNA with 7 years of experience; wants a block-heavy practice. Spouse is relocating for work, so open to a move. Fine with call."
+  },
+  {
+    "id": "P14",
+    "name": "Ben Feld",
+    "role": "Anesthesiologist",
+    "yearsExperience": 14,
+    "boardCertified": true,
+    "licenses": [
+      "WA",
+      "NC"
+    ],
+    "deaStates": [
+      "WA",
+      "NC"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2027-01-05",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "FL",
+      "IL"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minHourlyPay": 290,
+    "bio": "Board-certified anesthesiologist with 14 years of experience; strong with ultrasound-guided blocks. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P15",
+    "name": "Chloe Greer",
+    "role": "CRNA",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "OH"
+    ],
+    "deaStates": [
+      "OH"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-01-16",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "OH"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 220000,
+    "bio": "CRNA with 7 years of experience; likes OB and doesn't mind nights. Has school-age kids, so predictable hours matter. Would rather avoid call."
+  },
+  {
+    "id": "P16",
+    "name": "Ryan Patel",
+    "role": "Anesthesiologist",
+    "yearsExperience": 5,
+    "boardCertified": true,
+    "licenses": [
+      "TX",
+      "IL"
+    ],
+    "deaStates": [
+      "TX",
+      "IL"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "trauma"
+    ],
+    "availableFrom": "2027-04-01",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 555000,
+    "bio": "Board-certified anesthesiologist with 5 years of experience; has worked trauma at a Level I centre. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P17",
+    "name": "Nadia Harper",
+    "role": "CRNA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "GA",
+      "NC"
+    ],
+    "deaStates": [
+      "GA",
+      "NC"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "pediatric"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "GA"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 250000,
+    "minHourlyPay": 175,
+    "bio": "CRNA with 6 years of experience; loves the pace of cardiac cases. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P18",
+    "name": "Kevin Navarro",
+    "role": "CRNA",
+    "yearsExperience": 13,
+    "boardCertified": true,
+    "licenses": [
+      "WI",
+      "CA"
+    ],
+    "deaStates": [
+      "WI",
+      "CA"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric",
+      "regional"
+    ],
+    "availableFrom": "2026-12-03",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 215000,
+    "bio": "CRNA with 13 years of experience; wants a pediatric-focused role long term. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P19",
+    "name": "Laura Whitaker",
+    "role": "CRNA",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "AZ",
+      "GA"
+    ],
+    "deaStates": [
+      "AZ",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-07",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "IL",
+      "NC"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 199,
+    "bio": "CRNA with 11 years of experience; likes OB and doesn't mind nights. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P20",
+    "name": "Andre Kowalski",
+    "role": "Anesthesiologist",
+    "yearsExperience": 1,
+    "boardCertified": true,
+    "licenses": [
+      "FL"
+    ],
+    "deaStates": [
+      "FL"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-31",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 525000,
+    "bio": "Board-certified anesthesiologist with 1 year of experience; likes OB and doesn't mind nights. Burnt out on heavy call and wants a lighter schedule. Fine with call."
+  },
+  {
+    "id": "P21",
+    "name": "Ivy Holloway",
+    "role": "CRNA",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "MT"
+    ],
+    "deaStates": [
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "MT"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 218,
+    "bio": "CRNA with 10 years of experience; is calm as the only anesthesia provider in the building. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P22",
+    "name": "Sam Nguyen",
+    "role": "Anesthesiologist",
+    "yearsExperience": 13,
+    "boardCertified": true,
+    "licenses": [
+      "WA"
+    ],
+    "deaStates": [
+      "WA"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "MT",
+      "CO"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 480000,
+    "minHourlyPay": 300,
+    "bio": "Board-certified anesthesiologist with 13 years of experience; strong with ultrasound-guided blocks. Spouse is relocating for work, so open to a move. Fine with call."
+  },
+  {
+    "id": "P23",
+    "name": "Rachel Yates",
+    "role": "CAA",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "OH"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "OH"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 230000,
+    "bio": "CAA with 7 years of experience; comfortable running a busy labor floor. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P24",
+    "name": "Victor Brandt",
+    "role": "Anesthesiologist",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "TX"
+    ],
+    "deaStates": [
+      "TX"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "trauma"
+    ],
+    "availableFrom": "2027-03-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "NY",
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minHourlyPay": 280,
+    "bio": "Board-certified anesthesiologist with 11 years of experience; looking to keep cardiac skills sharp. Wants to pay off loans quickly; pay is the priority. Fine with call."
+  },
+  {
+    "id": "P25",
+    "name": "Jenna Castillo",
+    "role": "CAA",
+    "yearsExperience": 5,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2027-01-18",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL",
+      "CA"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 210000,
+    "bio": "CAA with 5 years of experience; wants to do more hearts. Spouse is relocating for work, so open to a move. Fine with call."
+  },
+  {
+    "id": "P26",
+    "name": "Colin Sorensen",
+    "role": "CRNA",
+    "yearsExperience": 9,
+    "boardCertified": true,
+    "licenses": [
+      "IL",
+      "MT"
+    ],
+    "deaStates": [
+      "IL",
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "GA",
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minHourlyPay": 175,
+    "bio": "CRNA with 9 years of experience; comfortable running a busy labor floor. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P27",
+    "name": "Tara Okafor",
+    "role": "CRNA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "AZ"
+    ],
+    "deaStates": [
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric"
+    ],
+    "availableFrom": "2026-12-21",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "AZ"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 201,
+    "bio": "CRNA with 6 years of experience; enjoys working with kids and their families. Looking for a partnership or leadership track. Fine with call."
+  },
+  {
+    "id": "P28",
+    "name": "Miguel Mercer",
+    "role": "Anesthesiologist",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "FL",
+      "CA"
+    ],
+    "deaStates": [
+      "FL",
+      "CA"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-03-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 510000,
+    "bio": "Board-certified anesthesiologist with 10 years of experience; likes OB and doesn't mind nights. Prefers a smaller, collegial department. Would rather avoid call."
+  },
+  {
+    "id": "P29",
+    "name": "Erin Abbott",
+    "role": "CRNA",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "MT",
+      "OH"
+    ],
+    "deaStates": [
+      "MT",
+      "OH"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional",
+      "cardiac"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "FL",
+      "TX"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 193,
+    "bio": "CRNA with 10 years of experience; looking to keep cardiac skills sharp. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P30",
+    "name": "Paul Lindqvist",
+    "role": "Anesthesiologist",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "WA",
+      "AZ"
+    ],
+    "deaStates": [
+      "WA",
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "trauma"
+    ],
+    "availableFrom": "2026-12-06",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "NC",
+      "CO"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 480000,
+    "minHourlyPay": 293,
+    "bio": "Board-certified anesthesiologist with 7 years of experience; has worked trauma at a Level I centre. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P31",
+    "name": "Leah Dubois",
+    "role": "CRNA",
+    "yearsExperience": 8,
+    "boardCertified": true,
+    "licenses": [
+      "OH",
+      "FL"
+    ],
+    "deaStates": [
+      "OH",
+      "FL"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "cardiac"
+    ],
+    "availableFrom": "2027-01-16",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "OH"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "bio": "CRNA with 8 years of experience; likes OB and doesn't mind nights. Looking for a partnership or leadership track. Fine with call."
+  },
+  {
+    "id": "P32",
+    "name": "Noah Fischer",
+    "role": "Anesthesiologist",
+    "yearsExperience": 2,
+    "boardCertified": true,
+    "licenses": [
+      "TX",
+      "GA"
+    ],
+    "deaStates": [
+      "TX",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "trauma"
+    ],
+    "availableFrom": "2027-03-02",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "IL",
+      "GA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 600000,
+    "minHourlyPay": 280,
+    "bio": "Board-certified anesthesiologist with 2 years of experience; has worked trauma at a Level I centre. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P33",
+    "name": "Dana Ramos",
+    "role": "CRNA",
+    "yearsExperience": 4,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "GA"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 220000,
+    "bio": "CRNA with 4 years of experience; loves the pace of cardiac cases. Enjoys travel assignments between longer stays at home. Would rather avoid call."
+  },
+  {
+    "id": "P34",
+    "name": "Raj Feld",
+    "role": "CRNA",
+    "yearsExperience": 14,
+    "boardCertified": true,
+    "licenses": [
+      "IL",
+      "MT"
+    ],
+    "deaStates": [
+      "IL",
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric",
+      "cardiac"
+    ],
+    "availableFrom": "2027-02-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 235000,
+    "minHourlyPay": 175,
+    "bio": "CRNA with 14 years of experience; loves the pace of cardiac cases. Enjoys travel assignments between longer stays at home. Would rather avoid call."
+  },
+  {
+    "id": "P35",
+    "name": "Megan Greer",
+    "role": "CRNA",
+    "yearsExperience": 11,
+    "boardCertified": false,
+    "licenses": [
+      "AZ",
+      "MT"
+    ],
+    "deaStates": [
+      "AZ",
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2026-11-21",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "AZ"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minHourlyPay": 181,
+    "bio": "CRNA with 11 years of experience; strong with ultrasound-guided blocks. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P36",
+    "name": "Chris Patel",
+    "role": "Anesthesiologist",
+    "yearsExperience": 8,
+    "boardCertified": false,
+    "licenses": [
+      "FL",
+      "WA"
+    ],
+    "deaStates": [
+      "FL",
+      "WA"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-03-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL",
+      "NC"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 510000,
+    "bio": "Board-eligible anesthesiologist with 8 years of experience; comfortable running a busy labor floor. Looking for a partnership or leadership track. Fine with call."
+  },
+  {
+    "id": "P37",
+    "name": "Kara Harper",
+    "role": "CRNA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "MT"
+    ],
+    "deaStates": [
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "MT"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minHourlyPay": 205,
+    "bio": "CRNA with 6 years of experience; comfortable running a busy labor floor. Looking for a partnership or leadership track. Would rather avoid call."
+  },
+  {
+    "id": "P38",
+    "name": "Eli Navarro",
+    "role": "Anesthesiologist",
+    "yearsExperience": 12,
+    "boardCertified": true,
+    "licenses": [
+      "OR"
+    ],
+    "deaStates": [
+      "OR"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "trauma"
+    ],
+    "availableFrom": "2026-12-22",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "WA"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minHourlyPay": 289,
+    "bio": "Board-certified anesthesiologist with 12 years of experience; is calm as the only anesthesia provider in the building. Wants to pay off loans quickly; pay is the priority. Would rather avoid call."
+  },
+  {
+    "id": "P39",
+    "name": "Zoe Whitaker",
+    "role": "CAA",
+    "yearsExperience": 8,
+    "boardCertified": true,
+    "licenses": [
+      "OH"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "trauma"
+    ],
+    "availableFrom": "2027-02-01",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX",
+      "NC"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "bio": "CAA with 8 years of experience; is calm as the only anesthesia provider in the building. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P40",
+    "name": "Adam Kowalski",
+    "role": "Anesthesiologist",
+    "yearsExperience": 4,
+    "boardCertified": true,
+    "licenses": [
+      "TX"
+    ],
+    "deaStates": [
+      "TX"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "trauma"
+    ],
+    "availableFrom": "2027-01-31",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "MT",
+      "NY"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 550000,
+    "bio": "Board-certified anesthesiologist with 4 years of experience; has worked trauma at a Level I centre. Spouse is relocating for work, so open to a move. Fine with call."
+  },
+  {
+    "id": "P41",
+    "name": "Maya Lindqvist",
+    "role": "CAA",
+    "yearsExperience": 6,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-19",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX",
+      "CO"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 250000,
+    "bio": "CAA with 6 years of experience; wants to do more hearts. Burnt out on heavy call and wants a lighter schedule. Would rather avoid call."
+  },
+  {
+    "id": "P42",
+    "name": "Daniel Dubois",
+    "role": "CRNA",
+    "yearsExperience": 8,
+    "boardCertified": true,
+    "licenses": [
+      "WI",
+      "CO"
+    ],
+    "deaStates": [
+      "WI",
+      "CO"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric",
+      "cardiac"
+    ],
+    "availableFrom": "2027-01-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 245000,
+    "bio": "CRNA with 8 years of experience; wants a pediatric-focused role long term. Prefers a smaller, collegial department. Fine with call."
+  },
+  {
+    "id": "P43",
+    "name": "Priya Fischer",
+    "role": "CRNA",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "AZ",
+      "OH"
+    ],
+    "deaStates": [
+      "AZ",
+      "OH"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2026-12-07",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "IL",
+      "MT"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 200000,
+    "minHourlyPay": 207,
+    "bio": "CRNA with 10 years of experience; wants a block-heavy practice. Has school-age kids, so predictable hours matter. Fine with call."
+  },
+  {
+    "id": "P44",
+    "name": "Marcus Ramos",
+    "role": "Anesthesiologist",
+    "yearsExperience": 4,
+    "boardCertified": false,
+    "licenses": [
+      "FL",
+      "AZ"
+    ],
+    "deaStates": [
+      "FL",
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 495000,
+    "minHourlyPay": 280,
+    "bio": "Board-eligible anesthesiologist with 4 years of experience; likes OB and doesn't mind nights. Has school-age kids, so predictable hours matter. Would rather avoid call."
+  },
+  {
+    "id": "P45",
+    "name": "Elena Feld",
+    "role": "CRNA",
+    "yearsExperience": 15,
+    "boardCertified": false,
+    "licenses": [
+      "MT"
+    ],
+    "deaStates": [
+      "MT"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "GA",
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 189,
+    "bio": "CRNA with 15 years of experience; comfortable running a busy labor floor. Prefers a smaller, collegial department. Would rather avoid call."
+  },
+  {
+    "id": "P46",
+    "name": "James Greer",
+    "role": "Anesthesiologist",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "OR"
+    ],
+    "deaStates": [
+      "OR"
+    ],
+    "caseExperience": [
+      "general",
+      "regional"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 284,
+    "bio": "Board-certified anesthesiologist with 11 years of experience; wants a block-heavy practice. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P47",
+    "name": "Aisha Patel",
+    "role": "CAA",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "OH"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-02-01",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "NY",
+      "GA"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 225000,
+    "bio": "CAA with 10 years of experience; likes OB and doesn't mind nights. Wants to pay off loans quickly; pay is the priority. Would rather avoid call."
+  },
+  {
+    "id": "P48",
+    "name": "Tom Harper",
+    "role": "Anesthesiologist",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "TX"
+    ],
+    "deaStates": [
+      "TX"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2027-03-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 545000,
+    "bio": "Board-certified anesthesiologist with 7 years of experience; looking to keep cardiac skills sharp. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P49",
+    "name": "Grace Navarro",
+    "role": "CAA",
+    "yearsExperience": 13,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-19",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL",
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 220000,
+    "bio": "CAA with 13 years of experience; looking to keep cardiac skills sharp. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P50",
+    "name": "Luis Whitaker",
+    "role": "CRNA",
+    "yearsExperience": 5,
+    "boardCertified": true,
+    "licenses": [
+      "WI"
+    ],
+    "deaStates": [
+      "WI"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric"
+    ],
+    "availableFrom": "2027-01-18",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "CA",
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 250000,
+    "bio": "CRNA with 5 years of experience; enjoys working with kids and their families. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P51",
+    "name": "Hannah Kowalski",
+    "role": "CRNA",
+    "yearsExperience": 4,
+    "boardCertified": true,
+    "licenses": [
+      "AZ",
+      "NY"
+    ],
+    "deaStates": [
+      "AZ",
+      "NY"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-07",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL",
+      "MT"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 200000,
+    "bio": "CRNA with 4 years of experience; comfortable running a busy labor floor. Spouse is relocating for work, so open to a move. Would rather avoid call."
+  },
+  {
+    "id": "P52",
+    "name": "Omar Holloway",
+    "role": "Anesthesiologist",
+    "yearsExperience": 12,
+    "boardCertified": true,
+    "licenses": [
+      "FL",
+      "NC"
+    ],
+    "deaStates": [
+      "FL",
+      "NC"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric"
+    ],
+    "availableFrom": "2027-01-30",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 550000,
+    "bio": "Board-certified anesthesiologist with 12 years of experience; likes OB and doesn't mind nights. Enjoys travel assignments between longer stays at home. Would rather avoid call."
+  },
+  {
+    "id": "P53",
+    "name": "Sofia Nguyen",
+    "role": "CRNA",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "MT",
+      "GA"
+    ],
+    "deaStates": [
+      "MT",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "MT"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 214,
+    "bio": "CRNA with 10 years of experience; has worked trauma at a Level I centre. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P54",
+    "name": "Ben Yates",
+    "role": "Anesthesiologist",
+    "yearsExperience": 14,
+    "boardCertified": true,
+    "licenses": [
+      "WA"
+    ],
+    "deaStates": [
+      "WA"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "trauma"
+    ],
+    "availableFrom": "2026-12-22",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "1099",
+      "Locum"
+    ],
+    "preferredStates": [
+      "WA"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 480000,
+    "minHourlyPay": 334,
+    "bio": "Board-certified anesthesiologist with 14 years of experience; wants a block-heavy practice. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P55",
+    "name": "Chloe Brandt",
+    "role": "CRNA",
+    "yearsExperience": 0,
+    "boardCertified": true,
+    "licenses": [
+      "OH",
+      "FL"
+    ],
+    "deaStates": [
+      "OH",
+      "FL"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma"
+    ],
+    "availableFrom": "2027-01-16",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL",
+      "FL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 225000,
+    "bio": "CRNA with 0 years of experience; is calm as the only anesthesia provider in the building. Has school-age kids, so predictable hours matter. Fine with call."
+  },
+  {
+    "id": "P56",
+    "name": "Ryan Castillo",
+    "role": "Anesthesiologist",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "TX",
+      "GA"
+    ],
+    "deaStates": [
+      "TX",
+      "GA"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2027-01-31",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX"
+    ],
+    "openToRelocation": true,
+    "takesCall": true,
+    "minAnnualPay": 555000,
+    "bio": "Board-certified anesthesiologist with 11 years of experience; looking to keep cardiac skills sharp. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P57",
+    "name": "Nadia Sorensen",
+    "role": "CAA",
+    "yearsExperience": 9,
+    "boardCertified": true,
+    "licenses": [
+      "GA"
+    ],
+    "deaStates": [],
+    "caseExperience": [
+      "general",
+      "cardiac"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "CO",
+      "NC"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 225000,
+    "bio": "CAA with 9 years of experience; loves the pace of cardiac cases. Looking for a partnership or leadership track. Fine with call."
+  },
+  {
+    "id": "P58",
+    "name": "Kevin Okafor",
+    "role": "CRNA",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "IL",
+      "AZ"
+    ],
+    "deaStates": [
+      "IL",
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "pediatric",
+      "obstetric"
+    ],
+    "availableFrom": "2026-12-03",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "IL"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minAnnualPay": 255000,
+    "bio": "CRNA with 11 years of experience; likes OB and doesn't mind nights. Wants to pay off loans quickly; pay is the priority. Fine with call."
+  },
+  {
+    "id": "P59",
+    "name": "Laura Mercer",
+    "role": "CRNA",
+    "yearsExperience": 9,
+    "boardCertified": true,
+    "licenses": [
+      "AZ"
+    ],
+    "deaStates": [
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "trauma"
+    ],
+    "availableFrom": "2026-12-21",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "AZ"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minHourlyPay": 185,
+    "bio": "CRNA with 9 years of experience; wants a block-heavy practice. Wants to pay off loans quickly; pay is the priority. Would rather avoid call."
+  },
+  {
+    "id": "P60",
+    "name": "Andre Abbott",
+    "role": "Anesthesiologist",
+    "yearsExperience": 10,
+    "boardCertified": true,
+    "licenses": [
+      "FL",
+      "WA"
+    ],
+    "deaStates": [
+      "FL",
+      "WA"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "regional"
+    ],
+    "availableFrom": "2027-01-30",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "FL"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 570000,
+    "bio": "Board-certified anesthesiologist with 10 years of experience; likes OB and doesn't mind nights. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P61",
+    "name": "Ivy Lindqvist",
+    "role": "CRNA",
+    "yearsExperience": 8,
+    "boardCertified": true,
+    "licenses": [
+      "MT",
+      "AZ"
+    ],
+    "deaStates": [
+      "MT",
+      "AZ"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "availableFrom": "2026-11-20",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "MT"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minHourlyPay": 219,
+    "bio": "CRNA with 8 years of experience; comfortable running a busy labor floor. Enjoys travel assignments between longer stays at home. Fine with call."
+  },
+  {
+    "id": "P62",
+    "name": "Sam Dubois",
+    "role": "Anesthesiologist",
+    "yearsExperience": 7,
+    "boardCertified": true,
+    "licenses": [
+      "WA",
+      "TX"
+    ],
+    "deaStates": [
+      "WA",
+      "TX"
+    ],
+    "caseExperience": [
+      "general",
+      "regional",
+      "cardiac"
+    ],
+    "availableFrom": "2026-12-06",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "Locum",
+      "1099"
+    ],
+    "preferredStates": [
+      "WA"
+    ],
+    "openToRelocation": false,
+    "takesCall": true,
+    "minHourlyPay": 340,
+    "bio": "Board-certified anesthesiologist with 7 years of experience; loves the pace of cardiac cases. Wants a teaching environment and to precept students. Fine with call."
+  },
+  {
+    "id": "P63",
+    "name": "Rachel Fischer",
+    "role": "CRNA",
+    "yearsExperience": 2,
+    "boardCertified": true,
+    "licenses": [
+      "OH"
+    ],
+    "deaStates": [
+      "OH"
+    ],
+    "caseExperience": [
+      "general",
+      "obstetric",
+      "trauma"
+    ],
+    "availableFrom": "2027-02-15",
+    "credentialingDocsReady": true,
+    "acceptsContracts": [
+      "W2",
+      "Locum"
+    ],
+    "preferredStates": [
+      "OH"
+    ],
+    "openToRelocation": true,
+    "takesCall": false,
+    "minAnnualPay": 205000,
+    "minHourlyPay": 175,
+    "bio": "CRNA with 2 years of experience; has worked trauma at a Level I centre. Wants a teaching environment and to precept students. Would rather avoid call."
+  },
+  {
+    "id": "P64",
+    "name": "Victor Ramos",
+    "role": "Anesthesiologist",
+    "yearsExperience": 11,
+    "boardCertified": true,
+    "licenses": [
+      "TX",
+      "CO"
+    ],
+    "deaStates": [
+      "CO"
+    ],
+    "caseExperience": [
+      "general",
+      "cardiac",
+      "trauma"
+    ],
+    "availableFrom": "2027-01-31",
+    "credentialingDocsReady": false,
+    "acceptsContracts": [
+      "W2"
+    ],
+    "preferredStates": [
+      "TX"
+    ],
+    "openToRelocation": false,
+    "takesCall": false,
+    "minAnnualPay": 630000,
+    "bio": "Board-certified anesthesiologist with 11 years of experience; is calm as the only anesthesia provider in the building. Wants to pay off loans quickly; pay is the priority. Would rather avoid call."
+  }
+]

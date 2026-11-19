@@ -1,0 +1,209 @@
+[
+  {
+    "id": "J1",
+    "title": "Staff CRNA / CAA, Cardiac & General",
+    "facility": "Riverbend Medical Center",
+    "city": "Atlanta",
+    "state": "GA",
+    "acceptedRoles": [
+      "CRNA",
+      "CAA"
+    ],
+    "careModel": "Anesthesia care team (1:3 medical direction)",
+    "requiredCases": [
+      "general",
+      "cardiac"
+    ],
+    "minYears": 2,
+    "requiresBoardCert": true,
+    "requiresDEA": false,
+    "contract": "W2",
+    "callRequired": true,
+    "payAnnual": [
+      215000,
+      245000
+    ],
+    "startDate": "2027-01-18",
+    "description": "Level II hospital, 22 ORs. Growing open-heart program (6-8 hearts/week). Post-call day off. Mentorship from cardiac attendings for providers newer to hearts."
+  },
+  {
+    "id": "J2",
+    "title": "Pediatric CRNA",
+    "facility": "Lakeshore Children's Hospital",
+    "city": "Chicago",
+    "state": "IL",
+    "acceptedRoles": [
+      "CRNA"
+    ],
+    "careModel": "Anesthesia care team",
+    "requiredCases": [
+      "pediatric"
+    ],
+    "minYears": 3,
+    "requiresBoardCert": true,
+    "requiresDEA": false,
+    "contract": "W2",
+    "callRequired": true,
+    "payAnnual": [
+      225000,
+      255000
+    ],
+    "startDate": "2027-02-01",
+    "description": "Free-standing children's hospital. Neonates through adolescents, ENT, ortho, GI sedation. Q6 weekend call. Strong education culture."
+  },
+  {
+    "id": "J3",
+    "title": "CRNA, Outpatient Ortho & Regional",
+    "facility": "Sunvale Surgery Center",
+    "city": "Phoenix",
+    "state": "AZ",
+    "acceptedRoles": [
+      "CRNA"
+    ],
+    "careModel": "CRNA-only practice",
+    "requiredCases": [
+      "regional"
+    ],
+    "minYears": 3,
+    "requiresBoardCert": true,
+    "requiresDEA": true,
+    "contract": "1099",
+    "callRequired": false,
+    "payHourly": [
+      175,
+      200
+    ],
+    "startDate": "2026-12-21",
+    "description": "Busy ASC, ortho and sports medicine. Ultrasound-guided blocks every day (interscalene, adductor canal, popliteal). No nights, no weekends, no call."
+  },
+  {
+    "id": "J4",
+    "title": "Anesthesiologist, OB-heavy",
+    "facility": "Gulf Coast Regional Hospital",
+    "city": "Tampa",
+    "state": "FL",
+    "acceptedRoles": [
+      "Anesthesiologist"
+    ],
+    "careModel": "Physician-led care team",
+    "requiredCases": [
+      "obstetric",
+      "general"
+    ],
+    "minYears": 1,
+    "requiresBoardCert": false,
+    "requiresDEA": true,
+    "contract": "W2",
+    "callRequired": true,
+    "payAnnual": [
+      500000,
+      560000
+    ],
+    "startDate": "2027-03-01",
+    "description": "4,500 deliveries/year, in-house OB call 1:5. Board eligible welcome with certification within 2 years. Partnership track after 2 years."
+  },
+  {
+    "id": "J5",
+    "title": "Locum CRNA, Rural Critical Access",
+    "facility": "High Plains Health",
+    "city": "Billings",
+    "state": "MT",
+    "acceptedRoles": [
+      "CRNA"
+    ],
+    "careModel": "CRNA independent practice",
+    "requiredCases": [
+      "obstetric",
+      "trauma",
+      "regional"
+    ],
+    "minYears": 5,
+    "requiresBoardCert": true,
+    "requiresDEA": true,
+    "contract": "Locum",
+    "callRequired": true,
+    "payHourly": [
+      190,
+      215
+    ],
+    "startDate": "2026-12-15",
+    "description": "Sole anesthesia provider on shift. C-sections, trauma, epidurals, blocks. 7-on/7-off with home call. Housing and travel covered."
+  },
+  {
+    "id": "J6",
+    "title": "Locum Anesthesiologist, Ambulatory Ortho",
+    "facility": "Pinecrest Ambulatory Surgery",
+    "city": "Seattle",
+    "state": "WA",
+    "acceptedRoles": [
+      "Anesthesiologist"
+    ],
+    "careModel": "Physician-only",
+    "requiredCases": [
+      "regional"
+    ],
+    "minYears": 3,
+    "requiresBoardCert": true,
+    "requiresDEA": true,
+    "contract": "Locum",
+    "callRequired": false,
+    "payHourly": [
+      290,
+      330
+    ],
+    "startDate": "2027-01-05",
+    "description": "3-month renewable assignment. Block-heavy ortho, total joints same-day discharge. Weekdays only."
+  },
+  {
+    "id": "J7",
+    "title": "CAA / CRNA, General & OB",
+    "facility": "Buckeye Valley Hospital",
+    "city": "Columbus",
+    "state": "OH",
+    "acceptedRoles": [
+      "CAA",
+      "CRNA"
+    ],
+    "careModel": "Anesthesia care team (1:4)",
+    "requiredCases": [
+      "general",
+      "obstetric"
+    ],
+    "minYears": 0,
+    "requiresBoardCert": true,
+    "requiresDEA": false,
+    "contract": "W2",
+    "callRequired": true,
+    "payAnnual": [
+      190000,
+      220000
+    ],
+    "startDate": "2027-02-15",
+    "description": "Community teaching hospital. New grads welcome with a 12-week orientation. Labor epidural service, general and some vascular."
+  },
+  {
+    "id": "J8",
+    "title": "Cardiac Anesthesiologist (TEE)",
+    "facility": "Lone Star Heart Institute",
+    "city": "Houston",
+    "state": "TX",
+    "acceptedRoles": [
+      "Anesthesiologist"
+    ],
+    "careModel": "Physician-led care team",
+    "requiredCases": [
+      "cardiac"
+    ],
+    "minYears": 2,
+    "requiresBoardCert": true,
+    "requiresDEA": true,
+    "contract": "W2",
+    "callRequired": true,
+    "payAnnual": [
+      560000,
+      620000
+    ],
+    "startDate": "2027-04-01",
+    "description": "High-volume CT surgery, TAVR, LVAD, transplant. Advanced perioperative TEE expected. Call 1:6."
+  }
+]
